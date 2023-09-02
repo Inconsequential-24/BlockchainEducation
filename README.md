@@ -19,3 +19,5 @@ The project focuses on enhancing various aspects of education through blockchain
 6. **ResourceSharingContract:** This contract facilitates resource sharing among educators and students. It establishes a decentralized platform for exchanging educational materials such as textbooks, academic papers, and lesson plans. Through tokenization or reward mechanisms, the contract encourages resource sharing, promoting collaboration and knowledge sharing among educators.
 
 These six smart contracts form the core of the blockchain-based educational solution, addressing key challenges and enhancing the educational experience. They leverage blockchain technology to ensure data security, transparency, automation, and trust in the education sector.
+
+Copyright: Juhi Dwivedi
